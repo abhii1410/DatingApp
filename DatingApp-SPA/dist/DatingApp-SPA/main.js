@@ -810,14 +810,17 @@ var MemberDetailComponent = /** @class */ (function () {
         this.galleryOptions = this.getImages();
     };
     MemberDetailComponent.prototype.getImages = function () {
+        console.log(this.user.photo);
         var imageUrls = [];
-        for (var i = 0; i < this.user.photo.length; i++) {
-            imageUrls.push({
-                small: this.user.photo[i].url,
-                medium: this.user.photo[i].url,
-                big: this.user.photo[i].url,
-                description: this.user.photo[i].description
-            });
+        if (this.user != null) {
+            for (var i = 0; i < this.user.photo.length; i++) {
+                imageUrls.push({
+                    small: this.user.photo[i].url,
+                    medium: this.user.photo[i].url,
+                    big: this.user.photo[i].url,
+                    description: this.user.photo[i].description
+                });
+            }
         }
         return imageUrls;
     };
@@ -1250,7 +1253,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\DatingApp\datingapp-spa\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\New folder\DatingApp.git\trunk\datingapp-spa\src\main.ts */"./src/main.ts");
 
 
 /***/ })

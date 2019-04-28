@@ -12135,11 +12135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DatingApp\\DatingAPI.API\\DatingAPI.API.csproj",
+      "projectUniqueName": "D:\\New folder\\DatingApp.git\\trunk\\datingapi.api\\DatingAPI.API.csproj",
       "projectName": "DatingAPI.API",
-      "projectPath": "d:\\DatingApp\\DatingAPI.API\\DatingAPI.API.csproj",
+      "projectPath": "D:\\New folder\\DatingApp.git\\trunk\\datingapi.api\\DatingAPI.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "d:\\DatingApp\\DatingAPI.API\\obj\\",
+      "outputPath": "D:\\New folder\\DatingApp.git\\trunk\\datingapi.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

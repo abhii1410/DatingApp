@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
 namespace DatingAPI.API.Controllers
-    //ok
+    {
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase

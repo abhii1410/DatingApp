@@ -21,7 +21,7 @@ galleryImages: NgxGalleryImage[];
     this.route.data.subscribe(data => {
       this.user = data['users'];
     });
-
+console.log(this.user);
     this.galleryOptions = [
       {
         width: '500px',
@@ -32,18 +32,18 @@ galleryImages: NgxGalleryImage[];
         preview: false
       }
     ];
-    this.galleryOptions = this.getImages();
+    this.galleryImages = this.getImages();
   }
 getImages() {
-  console.log(this.user.photo);
+  console.log(this.user.photos);
   const imageUrls = [] ;
   if (this.user != null) {
-  for (let i = 0; i < this.user.photo.length; i++) {
+  for (let i = 0; i < this.user.photos.length; i++) {
 imageUrls.push({
-  small: this.user.photo[i].url,
-  medium: this.user.photo[i].url,
-  big: this.user.photo[i].url,
-  description: this.user.photo[i].description
+  small: this.user.photos[i].url,
+  medium: this.user.photos[i].url,
+  big: this.user.photos[i].url,
+  description: this.user.photos[i].description
 
 });
   }}

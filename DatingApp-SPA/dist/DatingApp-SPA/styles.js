@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\DatingApp\datingapp-spa\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\New folder\DatingApp.git\trunk\datingapp-spa\src\styles.css */"./src/styles.css");
 
 
 /***/ })

@@ -20,3 +20,17 @@ D:\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.2\DatingAPI.API.AssemblyInfoInp
 D:\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.2\DatingAPI.API.AssemblyInfo.cs
 D:\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.2\DatingAPI.API.dll
 D:\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.2\DatingAPI.API.pdb
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.csprojAssemblyReference.cache
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.csproj.CoreCompileInputs.cache
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.RazorAssemblyInfo.cache
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.RazorAssemblyInfo.cs
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.AssemblyInfoInputs.cache
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.AssemblyInfo.cs
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.dll
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.pdb
+D:\New folder\DatingApp.git\trunk\datingapi.api\bin\Debug\netcoreapp2.2\DatingAPI.API.deps.json
+D:\New folder\DatingApp.git\trunk\datingapi.api\bin\Debug\netcoreapp2.2\DatingAPI.API.runtimeconfig.json
+D:\New folder\DatingApp.git\trunk\datingapi.api\bin\Debug\netcoreapp2.2\DatingAPI.API.runtimeconfig.dev.json
+D:\New folder\DatingApp.git\trunk\datingapi.api\bin\Debug\netcoreapp2.2\DatingAPI.API.dll
+D:\New folder\DatingApp.git\trunk\datingapi.api\bin\Debug\netcoreapp2.2\DatingAPI.API.pdb
+D:\New folder\DatingApp.git\trunk\datingapi.api\obj\Debug\netcoreapp2.2\DatingAPI.API.RazorTargetAssemblyInfo.cache
