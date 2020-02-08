@@ -8,7 +8,7 @@ using DatingAPI.API.Dtos;
 using DatingAPI.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using Microsoft.IdentityModel.Tokens;
+//using Microsoft.IdentityModel.Tokens;
 
 namespace DatingAPI.API.Controllers
     {
